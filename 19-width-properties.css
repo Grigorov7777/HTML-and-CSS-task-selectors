@@ -1,0 +1,5 @@
+.width example {
+  width: 100px; /* Set the width of the div element */
+  min-width: 50px; /* Set the minimum width of the div element */
+  max-width: 200px; /* Set the maximum width of the div element */
+}

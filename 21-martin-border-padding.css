@@ -1,0 +1,5 @@
+div {
+  margin: 20px; /* top and bottom margins are 20px, left and right margins are 20px */
+  border: 1px solid black; /* 1px wide black border */
+  padding: 10px; /* 10px padding on all sides of the div content */
+}
